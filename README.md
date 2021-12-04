@@ -1,1 +1,1 @@
-
+MegaDetector is free, and it makes us super-happy when people use it, so we put it out there as a downloadable model that is easy to use in a variety of conservation scenarios. That means we don't know who's using it unless you contact us (or we happen to run into you), so please please pretty-please email us at cameratraps@lila.science if you find it useful!
